@@ -1,0 +1,21 @@
+===============================
+model : C:/Users/kbh/Code/models/llama-2-7b-chat.Q2_K.gguf
+batch : 2000
+acc : 52%
+time : 1452.33
+===============================
+
+===============================
+model : C:/Users/kbh/Code/models/llama-2-7b-chat.Q2_K.gguf
+batch : 3000
+acc : 47%
+time : 1257.94
+===============================
+
+===============================
+model : C:/Users/kbh/Code/models/llama-2-7b-chat.Q2_K.gguf
+batch : 4000
+acc : 56%
+time : 1070.78
+===============================
+
